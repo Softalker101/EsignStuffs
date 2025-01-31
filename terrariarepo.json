@@ -1,0 +1,13 @@
+{
+    "name": "My Esign Repo",
+    "apps": [
+        {
+            "name": "Terraria",
+            "bundleIdentifier": "com.505games.terraria",
+            "developerName": "skibidirizz",
+            "version": "1.0",
+            "downloadURL": "https://www.dropbox.com/scl/fi/4acsdc4iubpdmzz3ot598/Terraria-v4-4-14.ipa?rlkey=ns4xsy2sbrtdqekly0nhmviuf&st=s3kttazf&dl=0",
+            "iconURL": ""
+        }
+    ]
+}
